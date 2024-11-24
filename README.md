@@ -1,6 +1,6 @@
-![Bem-vindo ao meu GitHub]([https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub](https://www.canva.com/design/DAGXZlQZGjw/04XNv871cG56Nzj-Or2ZEw/edit?utm_content=DAGXZlQZGjw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![Bem-vindo ao meu GitHub](https://github.com/yuricainan/yuricainan/blob/main/Wallpaper%20(1000%20x%20200%20px).png)
 
-# 👋 Olá! Eu sou Yuri Cainã!
+# 👋 Olá! Eu sou Yuri Caiã!
 
 Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar informações sobre mim, meus projetos e meu trabalho como especialista em automação e desenvolvimento. 🚀
 
@@ -41,4 +41,3 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar informações sobre 
 ## 📫 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuricainan) 
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricainan@email.com)
-
