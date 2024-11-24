@@ -7,7 +7,6 @@ Welcome to my GitHub profile! Here you will find information about me, my projec
 ---
 
 ## 📜 About Me
-- 🎯 **Commercial Director** at **Automaserv Sobral**.
 - 💡 Founder of **Octopuzz Tech Hub**, focused on innovation and automation.
 - ⚙️ Specialist in commercial automation with **15 years of experience**.
 - 🧠 Passionate about technology, chess, and Jiu-Jitsu.
