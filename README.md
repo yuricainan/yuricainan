@@ -1,6 +1,6 @@
 ![Welcome to my GitHub](https://github.com/yuricainan/yuricainan/blob/main/Wallpaper%20(1000%20x%20200%20px).png)
 
-# 👋 Hello! I'm Yuri Caiã!
+# 👋 Hello! I'm Yuri Cainã!
 
 Welcome to my GitHub profile! Here you will find information about me, my projects, and my work as a specialist in automation and development. 🚀
 
