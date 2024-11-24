@@ -1,6 +1,6 @@
-![Bem-vindo ao meu GitHub](https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub)
+![Bem-vindo ao meu GitHub]([https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub](https://www.canva.com/design/DAGXZlQZGjw/04XNv871cG56Nzj-Or2ZEw/edit?utm_content=DAGXZlQZGjw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
-# 👋 Olá! Eu sou Yuri Caiã!
+# 👋 Olá! Eu sou Yuri Cainã!
 
 Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar informações sobre mim, meus projetos e meu trabalho como especialista em automação e desenvolvimento. 🚀
 
