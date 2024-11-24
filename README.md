@@ -1,3 +1,5 @@
+![Bem-vindo ao meu GitHub](https://via.placeholder.com/1000x200.png?text=Bem-vindo+ao+meu+GitHub)
+
 # 👋 Olá! Eu sou Yuri Caiã!
 
 Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar informações sobre mim, meus projetos e meu trabalho como especialista em automação e desenvolvimento. 🚀
@@ -18,6 +20,11 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar informações sobre 
 
 ---
 
+## 🌟 Projetos em Destaque
+- [📂 **Octopuzz**](https://github.com/yuricainan/octopuzz): Repositório principal para sistemas e automações empresariais.
+
+---
+
 ## 📈 Objetivos
 - Criar soluções de automação que simplifiquem processos empresariais. 💡
 - Compartilhar conhecimento em automação comercial e transformação digital. 📚
@@ -27,9 +34,11 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar informações sobre 
 
 ## 🚀 Estatísticas do GitHub
 ![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuricainan&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricainan&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuricainan) 
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yuricainan@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuricainan) 
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricainan@email.com)
+
